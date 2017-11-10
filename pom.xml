@@ -8,7 +8,7 @@
     <relativePath />
   </parent>
   <groupId>org.xframium.jenkins</groupId>
-  <artifactId>xframium-plugin</artifactId>
+  <artifactId>xframium</artifactId>
   <version>1.0.14</version>
   <packaging>hpi</packaging>
   <properties>
